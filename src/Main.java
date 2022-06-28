@@ -3,8 +3,8 @@ public class Main
     public static void main(String[] args) {
         int a = 1;
         int b = 2;
-
-        int  summe =a+b;
+        int c = 3;
+        int  summe =a+b+c;
         String wort = "summe";
 
         System.out.println(wort +"  " +  summe);
